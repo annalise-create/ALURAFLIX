@@ -1,0 +1,10 @@
+body{
+    background-color: rgb(93, 175, 93);
+    color:rgb(93, 175, 93);
+    font-family: Georgia;
+    margin: 0px;
+    }
+    header {border-bottom: solid 4px red;
+    padding: 10px;
+font-size: 32px;
+color: darkslategray;}
