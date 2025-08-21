@@ -1,13 +1,13 @@
 body{
     background-color: rgb(93, 175, 93);
-    color:rgb(50, 143, 50);
+    color:rgb(25, 129, 25);
     font-family: Georgia;
     margin: 0px;
     }
     header {border-bottom: solid 4px rgb(18, 71, 31);
     padding: 10px;
 font-size: 32px;
-color: rgb(151, 224, 132);
+color: rgb(183, 238, 170);
 }
 section{background: yellow;
 padding-bottom: 80px;
