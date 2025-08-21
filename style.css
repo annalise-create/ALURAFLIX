@@ -4,7 +4,14 @@ body{
     font-family: Georgia;
     margin: 0px;
     }
-    header {border-bottom: solid 4px red;
+    header {border-bottom: solid 4px rgb(18, 71, 31);
     padding: 10px;
 font-size: 32px;
-color: darkslategray;}
+color: rgb(151, 224, 132);
+}
+section{background: yellow;
+padding-bottom: 80px;
+padding-top: 50px;
+display: flex;
+justify-content: center;
+}
